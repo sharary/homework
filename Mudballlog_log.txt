@@ -1,0 +1,74 @@
+2018-05-03 15:41:08,541  Mudball--DEBUG : The programme is start.
+2018-05-03 15:41:08,541  Mudball--DEBUG : None
+2018-05-03 15:41:18,668  Mudball--INFO : players :/n ['Mary', 'Bob']
+2018-05-03 15:41:18,668  Mudball--DEBUG : 100
+2018-05-03 15:41:22,059  Mudball--DEBUG : MaryPSI = 25.0,angle = 63.0
+2018-05-03 15:42:35,107  Mudball--DEBUG : BobPSI = 23.0,angle = 32.0
+2018-05-03 15:46:47,406  Mudball--DEBUG : The programme is start.
+2018-05-03 15:46:47,406  Mudball--DEBUG : None
+2018-05-03 15:46:51,486  Mudball--INFO : players : ['zxj']
+2018-05-03 15:46:51,486  Mudball--DEBUG : 118
+2018-05-03 15:46:54,548  Mudball--DEBUG : zxj : PSI = 23.0,angle = 3.0
+2018-05-03 15:46:54,548  Mudball--DEBUG : zxj104.17611073285283yards too short!
+2018-05-03 15:46:56,220  Mudball--DEBUG : zxj : PSI = 23.0,angle = 23.0
+2018-05-03 15:46:56,220  Mudball--DEBUG : zxj22.867311405213385yards too short!
+2018-05-03 15:46:58,626  Mudball--DEBUG : zxj : PSI = 23.0,angle = 23.0
+2018-05-03 15:46:58,626  Mudball--DEBUG : zxj22.867311405213385yards too short!
+2018-05-03 15:47:01,080  Mudball--DEBUG : zxj : PSI = 23.0,angle = 23.0
+2018-05-03 15:47:01,080  Mudball--DEBUG : zxj22.867311405213385yards too short!
+2018-05-03 15:47:30,521  Mudball--INFO : players : ['1', '2']
+2018-05-03 16:09:30,367  Mudball--DEBUG : The programme is start.
+2018-05-03 16:09:30,367  Mudball--DEBUG : None
+2018-05-03 16:09:36,352  Mudball--INFO : players : ['11', '22']
+2018-05-03 16:09:36,352  Mudball--DEBUG : distance = 71
+2018-05-03 16:09:39,275  Mudball--DEBUG : 11 : PSI = 12.0,angle = 32.0
+2018-05-03 16:09:39,275  Mudball--DEBUG : 1138.64341433322999yards too short!
+2018-05-03 16:09:42,134  Mudball--DEBUG : 22 : PSI = 12.0,angle = 32.0
+2018-05-03 16:09:42,134  Mudball--DEBUG : 2238.64341433322999yards too short!
+2018-05-03 16:09:44,416  Mudball--ERROR : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:12:09,290  Mudball--DEBUG : The programme is start.
+2018-05-03 16:12:09,290  Mudball--DEBUG : None
+2018-05-03 16:12:13,072  Mudball--INFO : players : ['11', '22']
+2018-05-03 16:12:13,072  Mudball--DEBUG : distance = 141
+2018-05-03 16:12:15,369  Mudball--DEBUG : 11 : PSI = 32.0,angle = 65.0
+2018-05-03 16:12:15,369  Mudball--DEBUG : 1155.10737743845837yards too short
+2018-05-03 16:12:18,120  Mudball--ERROR : should enter follow : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:12:19,448  Mudball--ERROR : should enter follow : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:15:01,606  Mudball--DEBUG : ----------The programme is start.----------
+2018-05-03 16:15:01,606  Mudball--DEBUG : None
+2018-05-03 16:15:05,763  Mudball--INFO : players : ['11', '22']
+2018-05-03 16:15:05,763  Mudball--DEBUG : distance = 133
+2018-05-03 16:15:07,294  Mudball--ERROR : should enter follow : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:15:07,482  Mudball--ERROR : should enter follow : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:15:12,451  Mudball--DEBUG : 11 : PSI = 65.0,angle = 65.0
+2018-05-03 16:19:17,852  Mudball--DEBUG : ----------The programme is start.----------
+2018-05-03 16:19:17,852  Mudball--DEBUG : None
+2018-05-03 16:19:21,665  Mudball--INFO : players : ['11', '22']
+2018-05-03 16:19:21,665  Mudball--DEBUG : distance = 105
+2018-05-03 16:19:24,868  Mudball--DEBUG : 11 : PSI = 12.0,angle = 32.0
+2018-05-03 16:19:24,868  Mudball--DEBUG : 1172.64341433323yards too short!
+2018-05-03 16:19:28,384  Mudball--ERROR : should enter follow : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:19:29,432  Mudball--ERROR : should enter follow : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:19:33,292  Mudball--ERROR : should enter follow : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:19:34,213  Mudball--ERROR : should enter follow : PSI>0, 0<angle<2¦Ð
+2018-05-03 16:19:37,761  Mudball--DEBUG : 22 : PSI = 12.0,angle = 32.0
+2018-05-03 16:19:37,761  Mudball--DEBUG : 22105.0yards too short!
+2018-05-03 16:19:40,699  Mudball--DEBUG : 11 : PSI = 12.0,angle = 32.0
+2018-05-03 16:19:40,699  Mudball--DEBUG : 1172.64341433323yards too short!
+2018-05-03 16:28:02,384  Mudball--DEBUG : ----------The programme is start.----------
+2018-05-03 16:28:02,384  Mudball--DEBUG : None
+2018-05-03 16:28:05,181  Mudball--INFO : players : ['kl;']
+2018-05-03 16:28:05,181  Mudball--DEBUG : distance = 118
+2018-05-03 16:28:05,822  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:06,447  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:06,994  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:07,525  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:08,087  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:08,619  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:09,182  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:09,806  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:10,322  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:13,946  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:14,180  Mudball--ERROR : should enter number but not string
+2018-05-03 16:28:17,375  Mudball--DEBUG : kl; : PSI = 2.0,angle = 1.0
+2018-05-03 16:28:17,375  Mudball--DEBUG : kl;118.0yards too short!
